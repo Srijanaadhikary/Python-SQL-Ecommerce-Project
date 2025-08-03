@@ -67,3 +67,30 @@ Answer key business questions to understand customer behavior, product performan
 - Moving averages and time series analysis using `pandas`
 
 ---
+## 📈 Visualizations
+
+- Bar chart of total sales per category
+- Line chart of monthly orders and cumulative sales
+- Heatmap of customer retention
+- Correlation plot: price vs purchase frequency
+- Ranking chart for top sellers and customers
+
+---
+
+## 🧠 Key Insights
+
+- High revenue categories and top-performing cities
+- Growth and seasonality trends across years
+- Customer retention and purchasing behavior
+- Seller revenue contribution and product demand
+
+---
+
+## 🛠️ Tech Stack
+
+- **SQL** – Data querying and transformation
+- **Python (Jupyter Notebook)** – Analysis, visualization
+- **SQLite/MySQL/PostgreSQL** – Database engine
+- **Pandas, Matplotlib, Seaborn, NumPy** – Python libraries
+
+---
